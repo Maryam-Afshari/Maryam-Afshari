@@ -1,6 +1,6 @@
 ### career
-I have been working as a social sciences researcher in Iran for 5 years.  I was engaged in serious social science projects as well as giving consultants to students writing their thesis. Everything started from being chosen as the excellent thesis proposal by the medical university of Isfahan. My proposal was fully funded by the university and from there on I made my career as a freelance researcher. You can read the result of a couple of projects I was involved here : <a herf = https://www.hindawi.com/journals/jdr/2018/9353858/ a>
-<a herf = https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-00946-2 a>
+I have been working as a social sciences researcher in Iran for 5 years.  I was engaged in serious social science projects as well as giving consultants to students writing their thesis. Everything started from being chosen as the excellent thesis proposal by the medical university of Isfahan. My proposal was fully funded by the university and from there on I made my career as a freelance researcher. You can read the result of a couple of projects I was involved here : https://www.hindawi.com/journals/jdr/2018/9353858/ 
+https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-00946-2 
 In my free time, I was a tour guide in my majestic home town Isfahan. Being a guide taught me about different cultures and improved my communication skills. 
 Being so passionate about research or getting insight from data, I soon explored Python and data science and since then have not stopped learning about it. After a boot camp in data science in Amsterdam, I am currently a data science aster student in Utrecht. I am doing my thesis on "Building a deep network model to predict river discharge using meteorological forcing"
 
