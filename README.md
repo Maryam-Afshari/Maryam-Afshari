@@ -1,8 +1,8 @@
 ### career
 I have been working as a researcher in Iran for 5 years.  I was engaged in social sciences projects as well as giving consultations to students writing their thesis. It started from being chosen as an excellent thesis proposal by the medical university of Isfahan. My thesis project was fully funded by medical university of Isfahan.
-Afterwards, I made my career as a freelance researcher. You can read the result of a couple of projects I have done here https://www.hindawi.com/journals/jdr/2018/9353858/ and here https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-00946-2. 
+Afterwards, I made my career as a researcher. You can read the result of a couple of projects I have done here https://www.hindawi.com/journals/jdr/2018/9353858/ and here https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-00946-2. 
 In meanwhile, I was a tour guide in my monumental home town; Isfahan. Working as a guide taught me about different cultures and how to cope with diffrent people in diffrent situations. 
-In 2020, I did a boot camp in data science in Amsterdam and I am currently at the last stage of Applied Data Science masters program at Utrecht University. My thesis project is "Streamflow prediction using meteorological time series data based on LSTM".
+In 2020, I did a boot camp in data science in Amsterdam and I am currently at the last stage of Applied Data Science masters program at Utrecht University. My thesis project is "Using LSTM and XGBoost for streamflow prediction based on meteorological time series data".
 
 <!--
 **Maryam-Afshari/Maryam-Afshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
